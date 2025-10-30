@@ -1,0 +1,7 @@
+{
+  "name": "ANUPDA Payment Gateway",
+  "description": "A secure and fast payment gateway application to send and receive money, manage cards, and pay bills. It features a comprehensive user verification process for enhanced security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
